@@ -1,7 +1,7 @@
 # Memory-Game
  **Object Oriented Programming Coursework, Second Year of Computer Science**
 
- ##Scenario
+ ## Scenario
 For this simplified version of the game that uses words rather than pictures, there is just a single player and the aim is to match all the pairs of words in the fewest number of guesses. The game has three levels of difficulty based simply on the number of words arranged in the grid, i.e., taken from the small, medium, or large list of words provided in the (read-only) data files.
 
 
